@@ -1,0 +1,7 @@
+
+print ("Simple login page")
+Username= input("Username :")
+Password= input("Password :")
+if Username== "Joel" and Password== "word":
+print ("Welcome to your login page", Username)
+else:print ("invalid username or password")
